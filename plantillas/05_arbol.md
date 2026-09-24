@@ -17,7 +17,7 @@ Tdc: {…}
 
 Comparto imagen del árbol genealógico, hasta hoy.
 
-Nota: {pendientes: datos a traer, planilla intermedia, "comenzaremos la primer ceremonia de REORXINS"}.
+Nota: {pendientes: datos a traer, planilla intermedia, "comenzaremos la primer ceremonia de REORIxINS"}.
 
 Le sugiero si quiere hacer en este día una meditación <https://www.youtube.com/watch?v=XfIYdXOopWI&t=11s>
 

@@ -13,7 +13,7 @@ Reglas que valen para todos los pasos. Cada guía de paso agrega las suyas.
 
 | Parte del texto | Persona y tiempo |
 |---|---|
-| Escena del consultante (LT, 4PP), vivencia del bebé (RU) | 1ra persona del consultante, **presente** ("Estoy en la cocina…") |
+| Escena del consultante (LT, 4PP), vivencia del bebé (RU), escena del ancestro (REORIxINS) | 1ra persona de quien la vive, **presente** ("Estoy en la cocina…") |
 | Situación, Pensamiento | 1ra persona de quien vive la escena |
 | Descargas | 1ra persona, dirigidas al destinatario en 2da persona con voseo ("Me da rabia que me dejes sola") |
 | Acciones físicas entre paréntesis | 3ra persona presente ("(lo ahorca)", "(la mata)") |
@@ -36,7 +36,7 @@ Reglas que valen para todos los pasos. Cada guía de paso agrega las suyas.
 | Separador del puente en 4PP `------------ (puente hacia mamá)` | *itálica* |
 | `Actualización al …` | ***negrita + itálica***; el cuerpo en *itálica* |
 | `Continuará…` | *itálica*, con el carácter "…" (no "...") |
-| Títulos de etapa (PyS, árbol, REORXINS) | MAYÚSCULAS |
+| Títulos de etapa (PyS, árbol, REORIxINS) | MAYÚSCULAS |
 
 - Comillas tipográficas “ ” en descargas y citas textuales.
 - Signos de apertura ¡ ¿ y elipsis "…".
@@ -94,10 +94,10 @@ Ver [preguntas abiertas](preguntas-abiertas.md): Seba todavía tiene que confirm
 **Estado de cielo de la última parte de RU**:
 > **Estado de cielo:** [recursos + colores]. Incorporamos sanado y reprogramamos todas las escenas de cada momento de su concepción, gestación y parto. Seguimos por la línea de tiempo hasta su presente. Mejor versión del futuro con color [color], lo traemos al presente y a descansar en vagotonía.
 
-**Cierre de cada bloque de REORXINS**:
+**Cierre de cada bloque de REORIxINS**:
 > Expresa que es su historia, que tomó consciencia y declara que libera de estas emociones al consultante.
 
-**Estado de cielo de REORXINS**:
+**Estado de cielo de REORIxINS**:
 > **Estado de cielo:** [recurso] color [X] y [objeto] (regalo). Incorporamos sanado y reprogramamos desde su concepción, gestación, parto y post-parto, infancia, adolescencia, juventud hasta la última edad e incorporamos sanado. Compartimos recurso con el clan (familia), con el colectivo (humanidad), con la tierra y el núcleo de la misma y al final con el universo. Trasmuta y quema las distorsiones de la cesta. Mejor versión del futuro con color [Y], lo traemos al presente y a descansar en vagotonía.
 
 **Meditación sugerida** (al cerrar partes de PyS, árbol):

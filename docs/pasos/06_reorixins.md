@@ -1,4 +1,4 @@
-# 06 — REORXINS (ceremonia de Re-origen por interpretación del síntoma)
+# 06 — REORIxINS (Re Origen por Interpretación de Síntoma)
 
 El consultante **encarna a un ancestro** en una escena de su vida (elegida a partir del árbol), vive sus emociones,
 descarga, declara que es la historia del ancestro y libera al consultante. Al final se comparte el recurso con el clan,
@@ -17,10 +17,10 @@ la humanidad, la tierra y el universo.
 
 * Nota: veo en el árbol que su bisabuelo Aurelio pierde el almacén a los 31 años, misma edad en que comienza su síntoma. Siento abrir esta rama.      ← opcional
 
-**2do REORXINS**
+**2do REORIxINS**
 Línea materna-materna-paterna.
 
-**Bisabuelo Aurelio (aprox. 31 años):** está en el almacén, cerrado, al atardecer. Piso de madera gastada. Paredes con estantes vacíos. Techo alto de chapa. Adelante el mostrador con la caja abierta y vacía. A la derecha la puerta con la persiana baja. Atrás la trastienda a oscuras. Huele a yerba y humedad. Se escucha la lluvia sobre el techo. Tiene en la mano la llave del local, fría y pesada. Está vestido con un guardapolvo gris y alpargatas.
+**Bisabuelo Aurelio (aprox. 31 años):** Estoy en el almacén, cerrado, al atardecer. El piso es de madera gastada. Las paredes tienen estantes vacíos. El techo es alto, de chapa. Adelante está el mostrador con la caja abierta y vacía. A la derecha, la puerta con la persiana baja. Atrás, la trastienda a oscuras. Huele a yerba y humedad. Escucho la lluvia sobre el techo. Tengo en la mano la llave del local, fría y pesada. Estoy vestido con un guardapolvo gris y alpargatas.
 
 **Situación:** Vine a cerrar por última vez… mañana se lo quedan los acreedores.
 **Pensamiento:** ¡Confié en él y me dejó en la calle!
@@ -47,13 +47,16 @@ Expresa que es su historia, que tomó consciencia y declara que libera de estas 
 ```
 
 ## 3. Reglas
-- **Título**: ordinal + `REORXINS` (`1er`, `2do`, `3er`, `4to`, `5to`…). Debajo, la **línea** con punto final: `Línea materna-materna.`,
+- **Título**: ordinal + `REORIxINS` (`1er`, `2do`, `3er`, `4to`, `5to`…), con esa grafía (confirmada por Seba). Debajo, la **línea** con punto final: `Línea materna-materna.`,
   `Línea paterna-paterna y paterna-materna.` El primer término es el lado del consultante y se sube; varias ramas con "y".
 - **Ancestro**: `Parentesco Nombre (aprox. N años):` — parentesco **respecto del consultante**; edad aproximada o rango (`14/15`).
   Lugar y momento del día, y la **descripción sensorial en el mismo párrafo, sin rótulo** (mismo orden que en LT: piso,
   paredes, techo, adelante, derecha, atrás, izquierda, arriba, olor, sonido, objeto y tacto, calzado, ropa, quién está).
-- **Persona**: descripción de la escena en 3ra persona ("está en…"); Situación, Pensamiento y descargas en **1ra persona del ancestro**.
+- **Persona**: todo el bloque en **1ra persona del ancestro y en presente** (confirmado por Seba): la escena ("Estoy en…",
+  "Huele a…", "Tengo en la mano…"), la Situación, el Pensamiento y las descargas. Sólo los rótulos de las descargas
+  ("Descarga con su padre…") y la frase fija de cierre quedan en 3ra persona.
   Aclaraciones de Seba entre paréntesis ("(momento en que muere su madre)").
+  (En los casos de 2024 la escena estaba en 3ra persona: no usar ese formato.)
 - **Descargas**: dirigidas a personas del mundo del ancestro (sus padres, hermanos, pareja, hijos, terceros, incluso Dios).
   Encadenadas: `Descarga con su [vínculo] [Nombre]:` → `Sigue con…` → `Continúa con…` → `Vuelve a descargar con…` → `¿Alguien más?`.
   Texto entre comillas, sin suavizar; acción al final entre paréntesis. Descargas sin violencia también se escriben.
@@ -64,11 +67,11 @@ Expresa que es su historia, que tomó consciencia y declara que libera de estas 
   universo → cesta) + color del futuro distinto. Si en la sesión se bajó el recurso por cada ancestro, agregar
   "bajamos el recurso a través de cada ancestro hasta el consultante".
 - Lo que aparece en la escena es **vivencia**, no hecho histórico: se escribe como relato de la escena, sin validarlo ni corregirlo.
-- No mezclar la fórmula de cierre de REORXINS con las de LT, 4PP o RU.
+- No mezclar la fórmula de cierre de REORIxINS con las de LT, 4PP o RU.
 
 ## 4. Checklist
 - [ ] ¿Título con ordinal y línea correctamente derivada del parentesco?
-- [ ] ¿Cada bloque: ancestro con edad + descripción + 6 campos + descargas + frase fija + Tdc?
+- [ ] ¿Cada bloque: ancestro con edad + descripción en 1ra persona + 6 campos + descargas + frase fija + Tdc?
 - [ ] ¿Separadores entre bloques?
 - [ ] ¿Estado de cielo completo, con recurso, color, regalo (si hubo) y color del futuro?
 - [ ] ¿Nada inventado: ancestros, edades, colores, regalos? Faltantes → `[COMPLETAR]`.

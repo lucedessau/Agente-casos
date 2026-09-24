@@ -2,10 +2,10 @@
 
 [* Nota: veo en el árbol que … Siento abrir esta rama …]
 
-**{Nº} REORXINS**
+**{Nº} REORIxINS**
 Línea {materna/paterna}-{materna/paterna}[ y …].
 
-**{Parentesco} {Nombre} (aprox. {N} años):** {lugar}, {momento del día}. {Descripción sensorial corrida: piso, paredes, techo, adelante, derecha, atrás, izquierda, arriba, olor, sonido, objeto y tacto, calzado, ropa, quién está.}
+**{Parentesco} {Nombre} (aprox. {N} años):** Estoy en {lugar}, {momento del día}. {Descripción sensorial corrida en 1ra persona del ancestro, presente: piso, paredes, techo, adelante, derecha, atrás, izquierda, arriba, olor, sonido, objeto y tacto, calzado, ropa, quién está.}
 
 **Situación:** {1ra persona del ancestro}
 **Pensamiento:** {…}

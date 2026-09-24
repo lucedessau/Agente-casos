@@ -1,7 +1,9 @@
 # De la transcripción al caso
 
-Las sesiones se graban y transcriben con **Tactiq** (archivos `.txt` con nombres tipo `LT Nombre Apellido.txt`,
-`PyS Nombre - 1ra parte D-M-AAAA.txt`). Una sesión dura 2,5 a 3 horas; **sólo una parte** va al caso.
+Seba pasa el **`.txt` de la transcripción de la reunión de Meet** (transcripción de Meet o de Tactiq; en el Drive hay
+archivos tipo `LT Nombre Apellido.txt`, `PyS Nombre - 1ra parte D-M-AAAA.txt`). La **fecha de la sesión** sale del
+encabezado del `.txt` o del nombre del archivo; si no está, se pregunta. Una sesión dura 2,5 a 3 horas; **sólo una
+parte** va al caso.
 
 ## 1. Mapa típico de una sesión
 

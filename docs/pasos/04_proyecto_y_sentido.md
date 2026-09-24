@@ -10,15 +10,22 @@ colectivo y familiar. Todo **"pasado por el tamiz del síntoma"**.
 - Va **después de la RU** y antes de la planilla intermedia y el árbol. Cada consulta sigue abriendo con la Actualización.
 - Mínimo 3 consultas ("Pablo dice no menos de tres; para mí son más").
 
-| Encabezado (plantilla) | Contenido |
-|---|---|
-| `PROYECTO Y SENTIDO – 1RA PARTE` | Respuestas del cuestionario: pre-concepción, concepción y noticia, embarazo, parto, crianza, frases familiares |
-| `PROYECTO Y SENTIDO – 2DA PARTE` | Historia de los padres (biológicos y de crianza), nombres (etimología y significado genealógico), nombre que le iban a poner, personajes con su nombre, santorales del día de nacimiento y de la FPP, santos con su nombre |
-| `PROYECTO Y SENTIDO (4TA PARTE)` | Efemérides del día de nacimiento, inconsciente colectivo del país y del mundo por etapas, inconsciente familiar |
+Son **cuatro bloques** (confirmado por Seba):
 
-- **No hay 3ra parte en la plantilla.** En la práctica "parte" = sesión: si una sesión sigue con el mismo bloque, se
-  numera por sesión (p. ej. la 2da parte sigue con el cuestionario). Si la 3ra mezcla historia de los padres + inicio
-  del árbol: `PROYECTO Y SENTIDO (3ra parte) + TRANSGENERACIONAL (armado árbol)`. Ver [preguntas abiertas](../preguntas-abiertas.md).
+| Bloque | Contenido |
+|---|---|
+| **Cuestionario de madre y padre** | Respuestas del cuestionario: pre-concepción (historia de los padres), concepción y noticia, embarazo, parto, crianza, frases familiares |
+| **Análisis de nombres** | Etimología y significado genealógico, nombre que le iban a poner, personajes con su nombre, apellido |
+| **Santorales** | Santoral del día de nacimiento y de la FPP, santos con su nombre |
+| **Inconsciente colectivo y fechas** | Efemérides del día de nacimiento, inconsciente colectivo del país y del mundo por etapas, inconsciente familiar |
+
+- **No hay un orden fijo**: a veces un bloque lleva más de una sesión, a veces dos bloques entran en una, y a veces el
+  orden se invierte según el consultante. Se sigue lo que pasó en la sesión.
+- **Encabezado**: la parte se numera por sesión y se aclara el bloque:
+  `PROYECTO Y SENTIDO – 1RA PARTE (cuestionario)`, `PROYECTO Y SENTIDO – 2DA PARTE (análisis de nombres)`,
+  `PROYECTO Y SENTIDO – 3RA PARTE (santorales)`, `PROYECTO Y SENTIDO – 4TA PARTE (inconsciente colectivo y fechas)`;
+  si una sesión sigue con el mismo bloque: `PROYECTO Y SENTIDO – 2DA PARTE (seguimos con el cuestionario)`.
+- Si la última parte comparte sesión con el inicio del árbol: `PROYECTO Y SENTIDO – 4TA PARTE + ARMADO DE ARBOL`.
 
 ## 2. El cuestionario (lo trae el consultante)
 Seba le da su cuestionario ("SEBA LUCE CUESTIONARIO PROYECTO Y SENTIDO") con cinco bloques:
@@ -62,7 +69,7 @@ mensajes de WhatsApp pegados. En la sesión se leen "renglón por renglón".
 
 **14va consulta**
 
-PROYECTO Y SENTIDO – 1RA PARTE
+PROYECTO Y SENTIDO – 1RA PARTE (cuestionario)
 
 Analizamos las respuestas del cuestionario que Martina trabajó con su mamá (Graciela).
 
@@ -80,17 +87,17 @@ Le sugiero si quiere hacer en este día una meditación <https://www.youtube.com
 *Continuará…*
 ```
 
-## 5. 2da parte: qué investiga el agente y qué no
-| Tema | Método | Fuente |
-|---|---|---|
-| Etimología de cada nombre, del nombre alternativo y del apellido | Web, al menos 2 fuentes | Diccionarios de nombres, etymonline, etc. |
-| **Significado genealógico** | **Lo aporta Seba**: texto del diccionario de **Gerard Athias**. El agente sólo lo resume. Si falta: `[COMPLETAR: texto Athias de <nombre>]` | — |
-| Nombre que le iban a poner, sexo deseado, quién eligió y por qué | Del cuestionario / sesión | — |
-| Personajes históricos o de ficción con su nombre (y el que inspiró el nombre) | Web; 2-4 figuras, 1 línea cada una | Enciclopedias |
-| Santoral del día de nacimiento y de la **FPP** | Web; distinguir **litúrgico vs devoción popular** | Vatican News, Martirologio Romano, Santopedia |
-| Santos con su nombre (y variantes) | Web; origen familiar, economía, poder, muerte, patronazgos | Idem |
+## 5. Nombres y santorales: qué investiga el agente y qué no
+| Tema | Bloque | Método | Fuente |
+|---|---|---|---|
+| Etimología de cada nombre, del nombre alternativo y del apellido | Nombres | Web, al menos 2 fuentes | Diccionarios de nombres, etymonline, etc. |
+| **Significado genealógico** | Nombres | **Lo aporta Seba**: texto del diccionario de **Gerard Athias**. El agente sólo lo resume. Si falta: `[COMPLETAR: texto Athias de <nombre>]` | — |
+| Nombre que le iban a poner, sexo deseado, quién eligió y por qué | Nombres | Del cuestionario / sesión | — |
+| Personajes históricos o de ficción con su nombre (y el que inspiró el nombre) | Nombres | Web; 2-4 figuras, 1 línea cada una | Enciclopedias |
+| Santoral del día de nacimiento y de la **FPP** | Santorales | Web; distinguir **litúrgico vs devoción popular** | Vatican News, Martirologio Romano, Santopedia |
+| Santos con su nombre (y variantes) | Santorales | Web; origen familiar, economía, poder, muerte, patronazgos | Idem |
 
-## 6. 4ta parte: investigación
+## 6. Inconsciente colectivo y fechas: investigación
 1. **Efemérides**: conmemoraciones del día (internacionales y del país), hechos históricos de esa fecha en cualquier año,
    y **qué pasó exactamente ese día del año de nacimiento**. Verificar el **año de creación** de cada conmemoración
    (no atribuir una que se creó después del nacimiento sin aclararlo).
@@ -120,7 +127,7 @@ fuentes, "Lo que falta investigar"). **Son otro formato**: sólo producirlos si 
 
 ## 10. Checklist
 - [ ] ¿Actualización separada de la parte de PyS?
-- [ ] ¿Encabezado según plantilla y numeración acordada?
+- [ ] ¿Encabezado con número de parte (por sesión) y el bloque entre paréntesis?
 - [ ] ¿Cada párrafo cierra con TdC (u Obs si es hipótesis)? ¿Se nombra el síntoma?
 - [ ] ¿Frases familiares textuales? ¿Datos concretos conservados?
 - [ ] ¿Fechas calculadas y verificadas? ¿El embarazo es de la madre?

@@ -64,8 +64,8 @@ Le muestro la conexión de sus aparentes emociones con las emociones de mamá. T
 - **Siempre hacia mamá** (la madre de crianza; en adopción, la adoptiva), aunque la escena sea con otra persona.
 - Separador en itálica con 12 guiones: `------------ (puente hacia mamá)`.
 - 1-2 líneas: dónde está mamá, qué hace, ropa y pelo. Puede estar en otro lugar distinto al niño.
-- **Fórmula de guiado** fija. Por defecto: `Lo/La guío … Lo/La llevo …` según el género del consultante
-  (en los casos se copia "Lo guió… Lo llevó…" de la plantilla; ver [preguntas abiertas](../preguntas-abiertas.md)).
+- **Fórmula de guiado** fija, **según el género del consultante** (confirmado por Seba):
+  `Lo guío … Lo llevo …` para varones, `La guío … La llevo …` para mujeres. El resto de la fórmula, literal.
 - **Cuatro campos** de mamá: `Pensamiento de mamá:` (una idea principal; lo demás al párrafo), `Sentimiento:`, `Emoción:`, `Emoción oculta:`.
   **Sin** "Situación" ni "Lugar del cuerpo" para mamá. Nunca "ESK" para mamá.
 - **Párrafo de la emoción oculta de mamá** (obligatorio): 3ra persona, presente, 40-180 palabras. Hacia quién va y por qué

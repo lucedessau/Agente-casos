@@ -10,7 +10,7 @@ estructura y estilo, a partir de las transcripciones de las sesiones.
 - [`docs/transcripcion-a-caso.md`](docs/transcripcion-a-caso.md): cómo pasar de la transcripción al texto del caso.
 - [`docs/pasos/`](docs/pasos/): una guía por paso (línea de tiempo, 4 primeros pasos, útero, proyecto y sentido, árbol, reorixins).
 - [`plantillas/`](plantillas/): esqueletos para copiar.
-- [`docs/preguntas-abiertas.md`](docs/preguntas-abiertas.md): decisiones de estilo pendientes de confirmar.
+- [`docs/preguntas-abiertas.md`](docs/preguntas-abiertas.md): decisiones de estilo confirmadas y pendientes.
 
 > **Privacidad:** este repositorio es público. No contiene datos de consultantes reales: todos los ejemplos son inventados.
 > Los casos se leen desde el Drive de Seba (sólo lectura) y los borradores se entregan fuera del repo.

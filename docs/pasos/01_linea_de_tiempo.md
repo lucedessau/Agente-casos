@@ -7,11 +7,11 @@ que se hacen en este orden: **horizontal → Fibonacci → independencia → pat
 
 Definiciones: **A** = edad actual (o de "la última vez"), **D** = edad del "desde cuándo", **I** = edad de independencia.
 
-| Tipo | Fórmula | Ejemplo (A = 38, D = 31, I = 22) |
+| Tipo | Fórmula (confirmada por Seba) | Ejemplo |
 |---|---|---|
-| **Horizontal** | Mitades sucesivas de A y, después, de D | 38 → 19 → 9/10 → 4/5 · 31 → 15/16 → 7/8 |
-| **Fibonacci** | D ÷ 1, 2, 3, 5, 8 | 31 → 15/16 → 10 → 6 → 4. Si D/2 ya se hizo en horizontal, se arranca en D/3 |
-| **Independencia** | Escenas en D, en I y en D − I | 31, 22, 9 |
+| **Horizontal** | Mitades sucesivas de A y, después, de D | A = 38, D = 31: 38 → 19 → 9/10 → 4/5 · 31 → 15/16 → 7/8 |
+| **Fibonacci** | D ÷ 1, 2, 3, 5, 8, 13 | D = 39: 39 → 19/20 → 13 → 7/8 → 4/5 → 3. Si D/2 ya se hizo en horizontal, se arranca en D/3 |
+| **Independencia** | D, y se le va restando I hasta que daría negativo (D − I, D − 2I…). A veces también la edad I | D = 42, I = 20: 42 → 22 → 2 (y a veces 20) |
 | **Patrones** | Sin cálculo: escenas unidas por el mismo guion (la emoción/situación del síntoma que se repite) | 36 (discusión por plata) → 27 → 16 |
 
 - Edades fraccionarias como rango con barra: `15/16`, `9/10`, `4/5`.
@@ -19,7 +19,6 @@ Definiciones: **A** = edad actual (o de "la última vez"), **D** = edad del "des
 - Se puede repetir una edad con otra escena.
 - Para independencia hace falta que en la sesión aparezca "¿a qué edad te independizaste?" (primer trabajo propio,
   irse a vivir solo o en pareja). Suele dejarse una `Nota:` explicando por qué esa es la edad.
-- *Estas fórmulas se dedujeron de los casos y de notas de Seba; ver [preguntas abiertas](../preguntas-abiertas.md).*
 
 ## 2. Encabezado de la consulta
 
@@ -104,7 +103,7 @@ Sale de los 2-3 momentos felices que el consultante cuenta **antes** de cerrar l
 ```
 
 ## 6. Checklist
-- [ ] ¿Las edades siguen la fórmula del tipo de ciclo anunciado?
+- [ ] ¿Las edades siguen la fórmula del tipo de ciclo anunciado (horizontal ÷2; Fibonacci ÷1, 2, 3, 5, 8, 13; independencia D − I, D − 2I…)?
 - [ ] ¿Cada escena tiene los 6 campos y la ESK coincide con el verbo de las descargas?
 - [ ] ¿Descripción en 1ra persona y presente, con adelante/derecha/izquierda/atrás/olor/sonido/tacto/ropa?
 - [ ] ¿Sólo palabras del consultante en las descargas? ¿Acciones confirmadas o marcadas [VERIFICAR]?

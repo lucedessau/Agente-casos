@@ -13,6 +13,6 @@ Esqueletos para copiar al redactar una consulta. Las reglas completas están en 
 | [`01_linea_de_tiempo.md`](01_linea_de_tiempo.md) | Consulta de línea de tiempo |
 | [`02_cuatro_primeros_pasos.md`](02_cuatro_primeros_pasos.md) | Consulta de 4PP |
 | [`03_reprogramacion_utero.md`](03_reprogramacion_utero.md) | Consulta de RU |
-| [`04_proyecto_y_sentido.md`](04_proyecto_y_sentido.md) | PyS 1ra, 2da y 4ta parte |
+| [`04_proyecto_y_sentido.md`](04_proyecto_y_sentido.md) | PyS: cuestionario, nombres, santorales, inconsciente colectivo y fechas |
 | [`05_arbol.md`](05_arbol.md) | Armado y análisis de árbol |
-| [`06_reorixins.md`](06_reorixins.md) | Ceremonia de REORXINS |
+| [`06_reorixins.md`](06_reorixins.md) | Ceremonia de REORIxINS |

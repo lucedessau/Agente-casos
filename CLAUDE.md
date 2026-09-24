@@ -9,6 +9,28 @@ Contexto de quién es Seba y cómo trabaja: [`docs/seba-luce.md`](docs/seba-luce
 
 ---
 
+## Cómo se usa
+
+**Seba te pasa el `.txt` de la transcripción de la reunión (Meet) → vos le devolvés el caso de esa consulta, listo para pegar.**
+
+Lo que entregás, en este orden:
+
+1. **Actualización al D/M/AAAA** (fecha de la sesión) — `{Nombre} me cuenta de su cuarentena:` y el **resumen**
+   de la charla del inicio en los tres ejes: físico/personal · vínculos/pareja · económico/laboral.
+   (En la 1ra consulta, en lugar de la actualización va el encabezado del caso armado con la planilla.)
+2. **Número de consulta** (`8va consulta`).
+3. **Qué paso es** (`Continuamos ciclo horizontal`, `Comenzamos ciclo fibonacci`, `Comenzamos 4PP`, `Seguimos con RU`,
+   `PROYECTO Y SENTIDO – 2DA PARTE`, `1er REORIxINS`…).
+4. **El caso**: el trabajo de la sesión según la guía del paso, el recurso y `Continuará…`.
+5. Debajo, separado: la lista de `[VERIFICAR]` / `[COMPLETAR]` y las preguntas que hayan quedado.
+
+Siempre **sólo el nombre de pila** del consultante: **nunca el apellido**, en ninguna parte del caso.
+
+Para saber el número de consulta, el paso en curso y las edades ya trabajadas, buscá el caso del consultante en el
+Drive (sólo lectura). Si no lo encontrás o hay dudas, preguntale a Seba antes de numerar.
+
+---
+
 ## Reglas que no se negocian
 
 1. **El Drive de Seba es de solo lectura.** Buscás, leés y descargás. Nunca creás, editás, movés, compartís ni
@@ -56,10 +78,10 @@ Contexto de quién es Seba y cómo trabaja: [`docs/seba-luce.md`](docs/seba-luce
 | 3 | Reprogramación de útero (RU) | [`docs/pasos/03_reprogramacion_utero.md`](docs/pasos/03_reprogramacion_utero.md) |
 | 4 | Proyecto y Sentido (PyS) 1ra a 4ta parte | [`docs/pasos/04_proyecto_y_sentido.md`](docs/pasos/04_proyecto_y_sentido.md) |
 | 5 | Armado y análisis de árbol (genosociograma, transgeneracional) | [`docs/pasos/05_arbol.md`](docs/pasos/05_arbol.md) |
-| 6 | REORXINS (ceremonias de re-origen con ancestros) | [`docs/pasos/06_reorixins.md`](docs/pasos/06_reorixins.md) |
+| 6 | REORIxINS (Re Origen por Interpretación de Síntoma: ceremonias con ancestros) | [`docs/pasos/06_reorixins.md`](docs/pasos/06_reorixins.md) |
 
 - Visión general del ciclo y en qué orden van los pasos: [`docs/ciclo.md`](docs/ciclo.md).
 - Estilo, formato y fórmulas comunes a todos los pasos: [`docs/estilo.md`](docs/estilo.md).
 - Esqueletos para copiar: [`plantillas/`](plantillas/).
-- Decisiones de estilo que Seba todavía tiene que confirmar: [`docs/preguntas-abiertas.md`](docs/preguntas-abiertas.md).
-  Mientras no estén confirmadas, usar la opción marcada como "por defecto".
+- Decisiones de estilo (confirmadas por Seba y pendientes): [`docs/preguntas-abiertas.md`](docs/preguntas-abiertas.md).
+  Las confirmadas son regla; mientras una no esté confirmada, usar la opción marcada como "por defecto".

@@ -4,7 +4,7 @@ Se dibuja el árbol genealógico y se buscan las **relaciones inconscientes** de
 (por fechas, nombres, santorales, profesiones, experiencias de vida) y las historias que **resuenan con el síntoma**.
 
 ## 1. Ubicación
-- Después de PyS (a veces la 4ta parte de PyS comparte consulta con el inicio del árbol). Antes de los REORXINS.
+- Después de PyS (a veces la 4ta parte de PyS comparte consulta con el inicio del árbol). Antes de los REORIxINS.
 - 2 a 5 consultas. Entre el árbol y los reorixins suele ir la **planilla intermedia** del Campus.
 - Durante LT, RU y PyS, cuando aparece material transgeneracional, Seba lo posterga ("lo vemos cuando analicemos su árbol").
 
@@ -35,7 +35,7 @@ Tdc: hacer rendir, estirar, nunca alcanza da por resultado vida.
 
 Comparto imagen del árbol genealógico, hasta hoy.
 
-Nota: la próxima trae datos de la rama paterna (partidas de su tía) y comenzamos la primer ceremonia de REORXINS.
+Nota: la próxima trae datos de la rama paterna (partidas de su tía) y comenzamos la primer ceremonia de REORIxINS.
 
 Le sugiero si quiere hacer en este día una meditación <https://www.youtube.com/watch?v=XfIYdXOopWI&t=11s>
 
@@ -43,7 +43,7 @@ Le sugiero si quiere hacer en este día una meditación <https://www.youtube.com
 ```
 
 Reglas:
-- Títulos: `ARMADO DE ARBOL`, `ARMADO Y ANALISIS DE ARBOL`, o combinado (`PROYECTO Y SENTIDO (4TA PARTE) + ARMADO DE ARBOL`).
+- Títulos: `ARMADO DE ARBOL`, `ARMADO Y ANALISIS DE ARBOL`, o combinado (`PROYECTO Y SENTIDO – 4TA PARTE + ARMADO DE ARBOL`).
 - Abrir con el estado del trabajo ("Comenzamos a realizar el armado…" / "Terminamos de completar el árbol…").
 - Una viñeta por ancestro o historia: **parentesco respecto del consultante** + nombre + **tipo de identidad entre paréntesis y por qué**
   ("(yacente por fecha y por experiencia de vida)", "(doble por santoral)", "(doble por fecha y por profesión)").

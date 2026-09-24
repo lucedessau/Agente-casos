@@ -12,15 +12,15 @@ Todo el ciclo se escribe en un solo documento por consultante: **`APELLIDO_EXPER
 | 1 | **Línea de tiempo (LT)**: horizontal → Fibonacci → independencia → patrones | Vida contemporánea | 1ra a ~6ta/9na | [01](pasos/01_linea_de_tiempo.md) |
 | 2 | **4 primeros pasos (4PP)**: 3-4, 2-3, 1-2, 0-1 año + puente hacia mamá | Infancia temprana | 1-2 consultas (suele caer en la 7ma u 8va) | [02](pasos/02_cuatro_primeros_pasos.md) |
 | 3 | **Reprogramación de útero (RU)**: post parto, parto, 9no→1er mes, concepción | Vida prenatal / memorias uterinas | 2-4 consultas ("partes") | [03](pasos/03_reprogramacion_utero.md) |
-| 4 | **Proyecto y Sentido (PyS)**: 1ra (cuestionario), 2da (padres, nombres, santorales), 4ta (efemérides, colectivo, familiar) | Vida prenatal / proyecto | 3 o más consultas | [04](pasos/04_proyecto_y_sentido.md) |
+| 4 | **Proyecto y Sentido (PyS)**: cuestionario de madre y padre, análisis de nombres, santorales, inconsciente colectivo y fechas (sin orden fijo) | Vida prenatal / proyecto | 3 o más consultas | [04](pasos/04_proyecto_y_sentido.md) |
 | — | **Planilla intermedia** (control del Campus) | — | entre PyS/árbol y reorixins | — |
 | 5 | **Armado y análisis de árbol** (genosociograma, transgeneracional) | Historia ancestral | 2 a 5 consultas | [05](pasos/05_arbol.md) |
-| 6 | **REORXINS** (1er, 2do, 3er… ceremonias con ancestros) | Ceremonia Reorixins | tantas como líneas resuenen (5 a ~14) | [06](pasos/06_reorixins.md) |
+| 6 | **REORIxINS** (1er, 2do, 3er… ceremonias con ancestros) | Ceremonia Reorixins | tantas como líneas resuenen (5 a ~14) | [06](pasos/06_reorixins.md) |
 | — | Cierre (formulario de cierre del Campus) | — | — | — |
 
 Los bordes entre pasos se superponen. Casos frecuentes:
 - El último año de 4PP (0-1 año) se hace en la misma consulta que abre la RU ("Seguimos con 4PP y comenzamos RU").
-- La 4ta parte de PyS comparte consulta con el armado del árbol ("PROYECTO Y SENTIDO (4TA PARTE) + ARMADO DE ARBOL").
+- La última parte de PyS comparte consulta con el armado del árbol ("PROYECTO Y SENTIDO – 4TA PARTE + ARMADO DE ARBOL").
 - Material transgeneracional que aparece antes de tiempo se **posterga** para el árbol ("eso lo vemos más adelante en transgeneracional").
 
 ## Cómo se ve cada consulta en el documento
@@ -55,7 +55,7 @@ Continuará…
 | PyS | Proyecto y Sentido |
 | TG | Transgeneracional |
 | R.I. | Relaciones inconscientes |
-| RxN | REORXINS / Reorixins |
+| RxN | REORIxINS (Re Origen por Interpretación de Síntoma) |
 | ESK | Emoción salvaje kinestésica |
 | Tdc / TdC | Toma de consciencia |
 | Obs | Observación de Seba para más adelante |

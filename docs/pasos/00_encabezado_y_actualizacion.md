@@ -100,7 +100,8 @@ Sale de la charla del inicio de cada consulta (los primeros 10-30 minutos de la 
 
 Reglas:
 - Fecha `D/M/AAAA`, **posterior** a la consulta anterior. Verificar que el contenido sea **de este consultante**.
-- Sujeto: nombre de pila (o nombre y apellido) + "me cuenta de su cuarentena:".
+- Sujeto: **sólo el nombre de pila** + "me cuenta de su cuarentena:". **Nunca el apellido.**
+- Es un **resumen** de la charla del inicio, no una transcripción.
 - **3 ejes en este orden**; si uno no tiene contenido, se omite.
 - 3ra persona, telegráfico, presente o pasado reciente. Se permiten `→` para consecuencias y citas textuales entre comillas.
 - Priorizar lo que **se movió**: síntomas físicos nuevos, cambios en el síntoma principal, hechos de dinero con montos y

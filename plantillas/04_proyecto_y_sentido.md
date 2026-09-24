@@ -2,7 +2,9 @@
 
 __**{N}ª consulta**__
 
-PROYECTO Y SENTIDO – 1RA PARTE
+[Los cuatro bloques no tienen orden fijo: {N}ª PARTE = número de sesión de PyS; entre paréntesis, el bloque.]
+
+PROYECTO Y SENTIDO – {N}ª PARTE (cuestionario)
 
 Analizamos las respuestas sobre el cuestionario de proyecto y sentido que {respondió con su mamá / le dieron sus padres}.
 
@@ -21,12 +23,19 @@ Le sugiero si quiere hacer en este día una meditación <https://www.youtube.com
 
 ---
 
-PROYECTO Y SENTIDO – 2DA PARTE
+PROYECTO Y SENTIDO – {N}ª PARTE (análisis de nombres)
 
-Hablamos de la historia de sus padres biológicos y no biológicos. {…} TdC: {…}
 Analizamos sus nombres, la etimología y el significado genealógico. {Nombre: etimología + lo que resonó del texto de Athias [COMPLETAR si falta]} TdC: {…}
 Analizamos el nombre que le iban a poner y no lo hicieron. {…} TdC: {…}
 Analizamos la vida de personajes famosos o de la historia con su nombre. {…} TdC: {…}
+[Apellido: {…} TdC: {…}]
+
+*Continuará…*
+
+---
+
+PROYECTO Y SENTIDO – {N}ª PARTE (santorales)
+
 Analizamos sus santorales del día de su nacimiento ({D/M}) y las historias de los mismos (y su fecha probable de parto {D/M}). {…} TdC: {…}
 Analizamos los santorales e historia de los santos con su nombre. {…} TdC: {…}
 
@@ -34,7 +43,7 @@ Analizamos los santorales e historia de los santos con su nombre. {…} TdC: {�
 
 ---
 
-PROYECTO Y SENTIDO (4TA PARTE)
+PROYECTO Y SENTIDO – {N}ª PARTE (inconsciente colectivo y fechas)
 
 Analizamos algunas efemérides del día de su nacimiento ({D/M/AAAA}): {…}. TdC: {…}
 Sucesos de la historia en sus fechas, inconsciente colectivo de {país} y del mundo:
