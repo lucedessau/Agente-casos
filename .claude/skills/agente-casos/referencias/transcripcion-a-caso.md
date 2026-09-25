@@ -49,6 +49,14 @@ En la práctica, alrededor del **40 %** de la transcripción es material del cas
 13. **Tactiq ya censura** algunas palabras (p***, m*****). Mantener y completar la censura según [estilo](estilo.md#4-censura-de-insultos-política-por-defecto).
 14. Ignorar el bloque **"Highlights"** del inicio del `.txt` (son fragmentos automáticos).
 15. Tactiq mezcla turnos de habla o corta frases: reconstruir por sentido.
+16. **Tutoría al inicio** (ideas de negocio, emprendimiento, YOBB): no va al caso; en la Actualización sólo lo que el
+    consultante toma como propio.
+17. **Órdenes o consejos al destinatario** en las descargas: se omiten (Seba suele frenarlos), salvo que contengan la
+    clave que después se vuelve toma de consciencia.
+18. **Lo que pasa después del cierre** (comentarios al despedirse, pedidos para la próxima): no va en la consulta; se le
+    avisa a Seba en las notas.
+
+Formato del `.txt` de Tactiq y más lecciones de las pruebas: [aprendizajes.md](aprendizajes.md).
 
 ## 3. Ejemplo (inventado)
 

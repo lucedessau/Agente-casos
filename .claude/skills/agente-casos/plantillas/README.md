@@ -1,6 +1,6 @@
 # Plantillas
 
-Esqueletos para copiar al redactar una consulta. Las reglas completas están en [`docs/pasos/`](../docs/pasos/).
+Esqueletos para copiar al redactar una consulta. Las reglas completas están en [`referencias/pasos/`](../referencias/pasos/).
 
 - `{…}` = completar con datos de la sesión.
 - `[VERIFICAR: …]` / `[COMPLETAR: …]` = marcas para Seba cuando un dato es dudoso o falta.
